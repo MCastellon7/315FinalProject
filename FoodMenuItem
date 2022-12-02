@@ -1,0 +1,8 @@
+{
+  "FoodMenuItem":
+  [
+      {"FoodName":"Chicken Tenders and Fries","FoodPrice":"11.99","FoodDescription":"Enjoy some chicken tenders with a side of hot fries and a sauce of your choosing.","FoodMeal":"Lunch","FoodImage":"https://raw.githubusercontent.com/MCastellon7/315FinalProject/main/ChickenTenders.png","FoodWebsite":"https://www.safeway.com/"},
+      {"FoodName":"Pork Loins with Mac n Cheese","FoodPrice":"15.99","FoodDescription":"Marinated in a garlic and herb sauce. Cooked to a nice sear and sided some broccoli and mac n cheese.","FoodMeal":"Dinner","FoodImage":"https://raw.githubusercontent.com/MCastellon7/315FinalProject/main/PorkLoins.png","FoodWebsite":"https://www.safeway.com/"}
+      ],
+  "Status":"OK"
+}
